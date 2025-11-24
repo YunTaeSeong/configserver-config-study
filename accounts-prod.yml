@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related prod APIs"
   contactDetails:
     name: "Reine - QA"
-    email: "Reine@bank.com"
+    email: "{cipher}dd0cc4cc39047a2f8c0cb8f6e73c960a9c855039562f546e4057290d71351279"
   onCallSupport:
     - 010-0000-0000
     - 010-1111-1111
