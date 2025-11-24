@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related production APIs"
+  message: "Welcome to Bank accounts related prod APIs"
   contactDetails:
     name: "Reine - QA"
     email: "{cipher}77a41e22d6db5eb380b8ae445e0452e6e1e7fa99a7ee2ca8f4d709b813fcda80"
